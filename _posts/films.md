@@ -4,7 +4,7 @@ title: "Films in Amdo Dialect"
 author: "Frances Garrett"
 categories: video
 tags: [video]
-image: flags.jpg
+image: mural.png
 ---
 
 Kha sang gi gtam rgyud [Tales of Yesteryear]
