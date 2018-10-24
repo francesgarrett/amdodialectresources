@@ -1,22 +1,32 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
+title: "Ethnographic Videos"
+author: "Frances Garrett"
 categories: video
-tags: [documentation,sample]
-image: arctic-4.jpg
+tags: [documentation,video]
+image: stupainside.jpg
 ---
 
-The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
+Ethnographic videos from Amdo
 
-## [Free Code Camp](https://www.freecodecamp.org/)
+This page lists enthnographic or amateur video productions from Amdo regions that are publicly available.
 
-My personal favourite for learning full stack web development. They offer a great front and back end curriculum that requires you to complete a variety of projects in order to apply the knowledge that you learn during the lessons. As a bonus, at the end of the curriculum you will have a few impressive projects under your belt for your portfolio.
+Tibetan and Himalayan Library: 13 Short Amdo Dialect Language Documentation Videos
 
-## [Codecademy](https://www.codecademy.com/)
+See http://www.thlib.org/avarch/mediaflowcat/titles_browse.php?searchTerms=amdo&searchType=title
 
-Not only does Codecademy have many great courses on various web development languages such as [HTML](https://www.codecademy.com/learn/learn-html), [CSS](https://www.codecademy.com/learn/learn-css), and [JavaScript](https://www.codecademy.com/learn/introduction-to-javascript), but they even offer a course on [how to deploy a Jekyll site](https://www.codecademy.com/learn/deploy-a-website). If you are completely new to Jekyll, I would recommend working through that course as a great start for learning how to deploy your Jekyll site.
+Amdo Hair Changing Ritual
 
-## [Khan Academy](https://www.khanacademy.org/)
+Produced by Libu Lakhi, Tshe dpal rdo rje, and Puhua Dongzhi. Available from Open Source Video, at http://www.archive.org/details/AmdoHairChangingRitualNumberTwoOfThree
 
-A great resource not only for learning mathematics (what most people probably know Khan Academy for), but also [computer programming](https://www.khanacademy.org/computing/computer-programming). What Khan Academy offers that is different from the other two above resources is that it offers courses in [computer science related](https://www.khanacademy.org/computing/computer-science) topics, such as [algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) and [cryptography](https://www.khanacademy.org/computing/computer-science/cryptography). This is unique in that most online resources mostly focus on the programming side of things.
+“This film focuses on a hair-changing ritual in a farming village in a rural Amdo Tibetan area in Mtsho sngon (Qinghai) Province, PR China. A thirteen-year old Tibetan girl’s (b. 1994) hair changing ritual in Brag dmar nang Tibetan Village, Dkra brjid Township, Khri kha County, Mtsho lho Tibetan Autonomous Prefecture, Mtsho sngon Province, PR China is described. The ritual was held on the fifth day of the first lunar month, 2007. Brag dmar nang Tibetan Village is situated in the east of Dkra brjid Township, Khri kha County, Mtsho lho Tibetan Autonomous Prefecture. It is forty kilometers from the village to Khri kha County Town, twenty kilometers to the township center, and 110 kilometers to Zi ling City, the provincial capital.”
+
+A Tibetan Lha pa
+
+Source unknown. On Open Source Video, at http://www.archive.org/details/lha_pa
+
+Shedhi Tibetan Village Cham
+
+2002. On Open Source Video, at http://www.archive.org/details/Rebgong_Losar
+
+“Wendegomba filmed and edited this cham performance, held on the twenty-ninth day of the third lunar month of 2002 in Shedhi Village, Shopongxi Township, Rebgong County, Huangnan Tibetan Prefecture, Qinghai Province, PR China. Local Tibetans believe that the featured demi-gods can cure illnesses, diminish obstacles, destroy evils, and bring auspiciousness to their lives.”
