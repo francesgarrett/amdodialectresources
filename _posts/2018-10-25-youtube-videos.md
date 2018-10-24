@@ -4,7 +4,7 @@ title: "YouTube videos in Amdo dialect"
 author: "Frances Garrett"
 categories: video
 tags: [documentation,video]
-image: rooftops.jpg
+image: mural.jpg
 ---
 
 YouTube videos in Amdo dialect
