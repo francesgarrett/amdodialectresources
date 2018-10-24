@@ -6,9 +6,8 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Textbooks', folder: 'pages', file: 'textbooks.html'}
-- {name: 'Dialogues', folder: 'pages', file: 'resources.html'}
-- {name: 'Video', folder: 'pages', file: 'video.html'}
+- {name: 'Textbooks & Dictionaries', folder: 'pages', file: 'textbooks.html'}
+- {name: 'Video & Film', folder: 'pages', file: 'video.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
