@@ -13,9 +13,9 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
-- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'twitter', link: 'https://twitter.com/UTTibetan'}
+- {icon: 'facebook', link: 'https://www.facebook.com/uoftcbs'}
+- {icon: 'envelope', link: 'mailto:frances.garrett@utoronto.ca'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
@@ -27,4 +27,4 @@ sharing_button_prompt: 'Feel free to share!'
 
 related_posts: 'You may also enjoy...'
 
-post_date_prefix: 'Written on'
+post_date_prefix: 'Posted on'
