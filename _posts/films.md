@@ -1,0 +1,82 @@
+---
+layout: post
+title: "Films in Amdo Dialect"
+author: "Frances Garrett"
+categories: video
+tags: [video]
+image: flags.png
+---
+
+Kha sang gi gtam rgyud [Tales of Yesteryear]
+
+Summary: A long serial presentation, very well received.
+
+Sbra nag tshang [A Black Tent Home]
+
+Summary: A love story, set in Rma yul, featuring two lovers from different villages who meet while fetching water and must go to great lengths to see each other.
+
+The Perfection of Wisdom
+
+Directed by Puhua Dongzhi
+
+The Perfection of Wisdom” (Phar phyin) is the one of the five treatises of Buddhist philosophy. Ngag dbang ‘jam dbyangs, a monk at Bla brang Monastery in Gansu Province, China, earned this degree in 2004. This documentary, filmed and edited by his younger brother, documents the graduation ritual for the thirty monks who achieved this degree. The documentary features Ngag dbang ‘jam dbyangs making 1,000 packages of sugar and raisins, given away at the ritual’s end; debating Buddha’s deeds in La Kha Lama’s quarters the night before the formal ritual; and visiting the monastery halls early the next morning; the formal examination with an assembly of all monastic leaders and monks in the great hall; and congratulations from friends, family members, and teachers. A rare look into a contemporary large Tibetan Buddhist monastery. (Tibetan soundtrack; English subtitles. 27 minutes. Color. See on Lulu.com)
+
+Tibetan Village Wedding
+
+Directed by Puhua Dongzhi
+
+22-year old Lha dpa’ tshe ring married 19-year old Tshe ring mtsho in rural ‘ber gtsang mo Tibetan Village, located in east central Mtsho sngon (Qinghai) Province, northwest China. Both have some primary school education. Both are farmers, cultivating wheat, barley, beans, potatoes and edible oil crops. The documentary includes activities the night prior to the formal wedding party; the groom and his companion’s arrival at the bride’s home; women from the bride’s village attacking the groom and his companion and pulling their ears; the companion singing to thwart the women’s attack; the bride and her companions’ arrival at the groom’s home; the bride prostrating three times to the groom’s home’s door protective deity, family god, and the fire deity; gifts; wedding food; orations; singing; the bride’s entourage’s departure; evening celebration. (Rare insight into village Tibetan life. Tibetan soundtrack; English subtitles. 35 minutes. Color. See on Lulu.com)
+
+Tibetan Woman’s Life
+
+Directed by Puhua Dongzhi
+
+34-year old Sgrol ma mtsho married Don ‘grub at the age of 21 (in 1993) without experience of housework, fieldwork, and fetching wood. Filmed by her husband’s younger brother, ‘Phags pa don ‘grub, in Amdo, the film concentrates on the daily life of Tibetan village women–fetching water, feeding livestock (swine, a cow, a mule), milking, cleaning the stables, cooking, household religious activity, weeding fields, transporting manure to fields, fetching wood for fuel–along with commentary by Sgrol ma mtsho about her life and family. (Rare insight into Tibetan village women’s lives. Tibetan soundtrack; English subtitles. 52 minutes. Color. See on Lulu.com)
+
+Kokonor
+
+Directed by Dorje Tsering Chenaktsang. China 2005 | Documentary | 32 min | Tibetan with English subtitles
+A documentary film by writer and director Chenaktsang Dorje Tsering (aka Jangbu). Examines environmental and social change in the vicinity of Qinghai Lake (Mtsho sngon po) through interviews with local residents.
+
+From Tibet in Harlem: Dorje Tsering Chenaktsang (aka Jangbu) is considered by many Tibet’s greatest living poet. Born in Qinghai province (People’s Republic of China), he worked for many years as editor of the Tibetan language literary journal Bod kyi rtsom rig sgyu rtsal [Tibetan art and literature] in Lhasa. In recent years he has been a Visiting Professor of Tibetan Language at the National Institute of Oriental Languages and Civilizations (INALCO) in Paris. He has directed the documentaries Tantric Yogi, co-produced with Stampede, and Ani Lacham: A Tibetan Nun, a co-production of Workshop Now and Purplelito. He has recently co-written the script of Sherwood Hu’s acclaimed movie Prince of the Himalayas (2006). He is currently working on a series of documentaries that reflect on social and cultural issues in modern Tibet. The first English translation of his poems and short stories, an anthology of his works titled The Nine-Eyed Agathe, will be soon published in the United States.
+
+Tantric Yogi
+
+Directed by Dorje Tsering Chenaktsang. China 2005 | Documentary | 50 min | Tibetan with English subtitles
+Tantric Yogi follows a Yogi and his fellow villagers as they travel through challenging territory to reach a rare gathering of thousands of lay tantric practitioners in Eastern Tibet. Narrated by Jim Broadbent.
+
+Ani Lhacham
+
+Directed by Dorje Tsering Chenaktsang. China 2007 | Documentary | 27 min | Tibetan with English subtitles
+When she was a child, Lhacham was eager to learn how to read and write. For economic reasons, her parents thought otherwise. She decided to run away to a nunnery in order to receive the education she was dreaming of. Dorje Tsering Chenaktsang follows her during a trip to the nearby town to get her tape recorder fixed. This recorder is her knowledge tool which she uses to learn Tibetan. The film is a tender and poetic portrait of Lhacham’s first journey into town.
+
+The Silent Holy Stones
+
+Written and Directed by Wanma Caidan (Pema Tsetan). Tibet 2005 | Drama | 102 min | Tibetan with English subtitles
+Excerpt from promotional website: “The Silent Holy Stones traces the intermingling of native Tibetan culture with the influence of the outside world. The movie tells the story of a young Lama who returns to home for New Year holidays from his remote temple, and is deeply impressed by the changes in his village. The young Lama discovers a new TV set in his family’s home. He falls in love with the television series Journey to the West. Upon returning to the temple, the boy begs his father to bring the VCD and TV back to the temple for other Lamas to watch. His fixation on the TV begins to distract him from his duties to the temple and his community. Despite the intensity of contrast between the religious and secular, the ancient and contemporary, The Silent Holy Stones never escalates the tension to the level of contrived narrative conceit.
+
+“Awards: Winner of the 25th Golden Rooster, Best Directorial Debut; winner of the 13th Beijing Student Film Festival, Best Directorial Debut; winner of the New Currents Award in the 10th Pusan International Film Festival; winner of Dragons and Tigers award in the 24th Vancouver International Film Festival.
+
+“Director Pema Tsetan was born in the Tibetan area in Qinghai, northwest China in 1969. He studied Tibetan language and culture at the Northwest National University, and film at the Beijing Film Academy. A screenplay writer and director, he wrote and conducted a 35mm coloured short film — The Grassland — 2004, which won the best short film prize at the Chinese Students’ Films Sections and the 3rd International Students Audio and Visual Works Show at the Beijing Film Academy. He was chosen one of Discovery’s First Time Filmmakers of 2004 and his second feature film, BLIND MOUNTAIN, is currently in post-production.”
+
+The Grassland
+
+A short film by Wanma Caidan (Pema Tsetan). Tibet 2004 | Drama | 22 min | Tibetan (Amkay) with English subtitles
+Excerpt from promotional website: “An old woman loses a cow in the Tibetan district of Qinghai. The village head thought the notorious young men had stolen it. The suspects were reluctant to meet the head’s order to vow before the Buddha. They were indeed innocent. In the end, the head’s son admitted he was the thief when faced with his father’s inquiry. The father led the son to apologize to the old woman. It is a tranquil and consistent film, slowly unfolded, simply put.
+
+“Grasslands won the Best Chinese Student Short Film award in the 4th BFA international student film exhibition. It was shown in the 24th International Student Film Festival of the Russian State Institute of Cinematography, VGIK. It was also was displayed in the 3rd Annual Film Festival in Yokohama, in the 1st Korean International Youth Film Festival, and in the International Film Festival Rotterdam.”
+
+The Search
+
+By Wanma Caidan (Pema Tsetan). 2009 | Drama | 112 min | Tibetan
+
+From TIFF: “Far removed from the Western imagery of a dreamlike Shangri-La mythologized by years of political seclusion, The Search takes the viewer straight into the heart of new Tibet. This charming second feature by Pema Tseden (Wan Ma Cai Dan) is the first ever to be shot entirely in Tibet and in the Tibetan language by a local crew. It is a road movie and an expedition in search of a disappearing culture. The Search is also a film within a film. We follow a director and his crew as they roam along a shadowy valley at the foot of barren hills, searching in small villages, remote monasteries, dusty towns, gaudy nightclubs and high-school gymnasiums. They are on the hunt for an actor and an actress who can play the complex roles of Prince Drimé Kunden and Princess Mande Zangmo in an adaptation of a popular traditional Tibetan opera. A previous incarnation of Buddha, Prince Drimé Kunden is the virtuous symbol of charity and selflessness, a man who gave away all his possessions – including wife and children – to those who needed them. Once upon a time, the lyrics of the opera were known to everybody, but now the search to find somebody who can remember the story of the compassionate prince, let alone perform it, proves difficult. Then one day, the melodious voice of a peasant girl casts a spell over the crew. Though she is strikingly beautiful, she prefers to hide behind a colourful scarf. She is the perfect choice for Princess Mande Zangmo. She agrees to join the long journey in search of a candidate to play Prince Drimé Kunden on the condition that she will be taken to see her former boyfriend and opera-singing partner, who has abandoned their native village to become a high-school teacher in a distant town.
+“Directing a cast of non-professional actors with easy grace, Pema Tseden has created a very personal style. Like a modern tanka, or intricate ceremonial Buddhist tapestry, The Search is a detailed picture of contemporary Tibet that evokes the region’s unique cultural identity through a meditative aesthetic.”
+
+The Girl Lhari
+
+By Rigdan Gyamtso. 2005 | Documentary | 25 min | Tibetan with English subtitles
+
+Lhari is a young bride sent to a country village to live with her in-laws, who increasingly use her as a servant and even lock her out at night, with even her husband not daring to intervene. Lhari decides to find her own, quintessentially Tibetan solution to her situation. The Girl Lhari is Director Rigdan Gyamtso’s first film.
+
+Rigdan Gyatso grew up in Jian Zha, Qinghai Province, China. He graduated from Qinghai Nationalities College in 1992 and currently works for Zen Bu Cultural Company as a film director.
