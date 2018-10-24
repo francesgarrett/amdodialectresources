@@ -6,10 +6,10 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
+- {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Textbooks & Dictionaries', folder: 'pages', file: 'textbooks.html'}
 - {name: 'Video & Film', folder: 'pages', file: 'video.html'}
-- {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+- {name: 'Links', folder: 'pages', file: 'links.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
