@@ -1,21 +1,19 @@
 ---
 layout: post
-title: "Ethnographic Videos"
+title: "Ethnographic Videos from Amdo"
 author: "Frances Garrett"
 categories: video
 tags: [documentation,video]
 image: stupainside.jpg
 ---
 
-Ethnographic videos from Amdo
-
 This page lists enthnographic or amateur video productions from Amdo regions that are publicly available.
 
-Tibetan and Himalayan Library: 13 Short Amdo Dialect Language Documentation Videos
+## Tibetan and Himalayan Library Amdo collection
 
-See http://www.thlib.org/avarch/mediaflowcat/titles_browse.php?searchTerms=amdo&searchType=title
+This is one of the largest collections of documentary videos from Amdo. See [https://audio-video.shanti.virginia.edu/subcollection/amdo-collection] (https://audio-video.shanti.virginia.edu/subcollection/amdo-collection)
 
-Amdo Hair Changing Ritual
+## Amdo Hair Changing Ritual
 
 Produced by Libu Lakhi, Tshe dpal rdo rje, and Puhua Dongzhi. Available from Open Source Video, at http://www.archive.org/details/AmdoHairChangingRitualNumberTwoOfThree
 
