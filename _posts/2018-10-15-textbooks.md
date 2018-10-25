@@ -11,6 +11,8 @@ image: blacktext.jpg
 
 By Kuo-ming Sung and Lha Byams Rgyal. China Tibetology Publishing House, 2005. ISBN 7-80057-557-8.
 
+![Colloquial Amdo Tibetan](https://nettletibetan.github.io/amdodialect/assets/img/colloquialamdo.jpg "Colloquial Amdo Tibetan")
+
 Excerpt from Introduction: “This book consists of twenty-one lessons. The first three lessons introduce the phonology and orthography of Amdo Tibetan. The remaining eighteen lessons, covering a moderate range of conversational topics on the daily life of a foreign student in the Amdo region, introduce the essential grammar and vocabulary of spoken Amdo Tibetan…. The texts of all lessons are in the form of a conversation… Lha Byams Rgyal, the Tibetan author of this book, is from Trika County (Ch. Guide), Qinghai, where a mixed agricultural-nomadic dialect is spoken.” The book comes with two CDs with speakers reading the dialogues from each chapter, but not the sample sentences.
 
 Evaluation (by Frances Garrett): This book is excellent, with exceptional grammar explanations that are worth reading for students of any sort of Tibetan. This is certainly the best available Amdo dialect instructional book. There are some minor errors in translation throughout the book.
@@ -18,6 +20,8 @@ Evaluation (by Frances Garrett): This book is excellent, with exceptional gramma
 **Modern Oral Amdo Tibetan Modern Oral Amdo Tibetan: A Language Primer**
 
 By Kalsang Norbu, Karl Peet, dPal ldan bKra shis, and Kevin Stuart. Studies in Linguistics and Semiotics, Vol. 5. The Edwin Mellon Press, n.d.
+
+![Modern Oral Amdo Tibetan](https://nettletibetan.github.io/amdodialect/assets/img/modernoralamdotibetan.jpg "Modern Oral Amdo Tibetan")
 
 Excerpt from Introduction: “Modern Oral Amdo Tibetan is for English Speakers who are studying Amdo at a beginning level. The text assumes no prior knowledge of Tibetan… [and presents] dialogues and texts of increasing sophistication that reflect Amdo Tibetan lives in the late twentieth century…. The oral Amdo introduced in this text is based on the dialect of rDo sbis, Kalsang Norbu’s native township, and the dialect of Reb gong.”
 
