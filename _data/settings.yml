@@ -25,6 +25,6 @@ pagination:
 
 sharing_button_prompt: 'Feel free to share!'
 
-related_posts: 'You may also enjoy...'
+related_posts: 'Also please see...'
 
-post_date_prefix: 'Posted on'
+post_date_prefix: 'Updated on'
