@@ -13,4 +13,4 @@ We do not include songs in Amdo dialect on this site, as there are other sources
 
 ## October 2018 Note
 
-This site was originally created by Frances Garrett in 2010. It went dormant for some years after the site files were accidentally lost, and it has been reconstructed this year. There have likely been many new resources created in the last eight years - please contact frances.garrett@utoronto.ca if you have suggestions for additions to the modest collection here.
+This site was originally created by Frances Garrett in 2010. It went dormant for some years after the site files were lost, and it has been reconstructed this year. There have likely been many new resources created in the last eight years - please contact frances.garrett@utoronto.ca if you have suggestions for additions to the modest collection here.
