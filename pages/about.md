@@ -11,4 +11,6 @@ This website has been created for students of Amdo dialect. Although resources f
 
 We do not include songs in Amdo dialect on this site, as there are other sources online, such as the Plateau Music Project, devoted to the study of Tibetan songs. Publications in the field of linguistics can provide some students with insights into the peculiarities of this dialect – see Links for further study for a few such studies.
 
-October 2018 Note: This site was originally created by Frances Garrett in 2010. It went dormant for some years after the site files were accidentally lost, and it has been reconstructed this year. There have likely been many new resources created in the last eight years - please contact frances.garrett@utoronto.ca if you have suggestions for additions to the modest collection here.
+##October 2018 Note
+
+This site was originally created by Frances Garrett in 2010. It went dormant for some years after the site files were accidentally lost, and it has been reconstructed this year. There have likely been many new resources created in the last eight years - please contact frances.garrett@utoronto.ca if you have suggestions for additions to the modest collection here.
