@@ -3,20 +3,20 @@ layout: misc
 title: Online Resources
 ---
 
-Gesar Study in Qinghai
+## Gesar Study in Qinghai
 
 o	Gesar website by Qinghai Gesar Research Institute and Qinghai Gesar
 Federation
 
-o	Xi Ma La Deng Gesar Research Base
+o	Xi Ma La Deng Gesar Research Base: [http://chinatibet.people.com.cn/6814108.html](http://chinatibet.people.com.cn/6814108.html)
 
-History & geography
+## History & geography
 
-o	Gruschke's study of Amdo
+o	Gruschke's study of Amdo: [https://www.researchgate.net/publication/282854278_Amdo_-_Volume_1_The_Qinghai_Part_of_Amdo](https://www.researchgate.net/publication/282854278_Amdo_-_Volume_1_The_Qinghai_Part_of_Amdo)
 
 o	Local histories and gazeteers
 
-Language resources & instruction
+## Language resources & instruction
 
 o	A Century in Rebkong, Amdo
 
@@ -36,7 +36,7 @@ o	Qinghai Normal University
 
 o	Radio Free Asia Amdo language podcasts
 
-Linguistics research
+## Linguistics research
 
 o	Amdo perspectives on language standardization
 
@@ -50,15 +50,15 @@ o	The Amdo Dialect of Labrang
 
 o	The Tibetan Dialects Project
 
-Regional projects
+## Regional projects
 
-o	Plateau Culture
+o	Asian Highlands Perspectives: [http://tibetanplateau.wikischolars.columbia.edu/Asian%20Highlands%20Perspectives](http://tibetanplateau.wikischolars.columbia.edu/Asian%20Highlands%20Perspectives)
 
 o	Plateau Music Project
 
 o	Shem Women's Group
 
-Travel agents in Amdo
+## Travel agents in Amdo
 
 o	Tibet Culture Tour
 
