@@ -1,6 +1,6 @@
 ---
 layout: misc
-title: About
+title: About Nettle Tibetan's Amdo Dialect Resources
 ---
 
 The Amdo Tibetan dialect is spoken by up to 1.5 million people across three provinces of the PRC, including most of Qinghai Province, Gansu Province’s Khan lho (Ch. Gannan) Tibetan Autonomous Prefecture) and Dpa’ ris (Ch. Tianzhu) County, and Sichuan Province’s Rnga ba (Ch. Aba) Tibetan/Qiang Autonomous Prefecture. Many native Amdo speakers are not ethnically Tibetan, and include members of the Salar, Hui and Mongolian ethnic groups.
