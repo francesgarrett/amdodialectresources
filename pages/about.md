@@ -9,7 +9,7 @@ Most Tibetans distinguish between two primary Amdo subdialects, referred to as N
 
 This website has been created for students of Amdo dialect. Although resources for the study of spoken Amdo Tibetan are few, there are a some good instructional materials, and a small but growing collection of films and radio productions feature native Amdo speech (as opposed to voice-over dubbing, which we do not list here).
 
-We do not include songs in Amdo dialect on this site, as there are other sources online, such as the Plateau Music Project, devoted to the study of Tibetan songs. Publications in the field of linguistics can provide some students with insights into the peculiarities of this dialect – see Links for further study for a few such studies.
+We do not include songs in Amdo dialect on this site, as there are other sources online, such as the Plateau Music Project, devoted to the study of Tibetan songs. Publications in the field of linguistics can provide some students with insights into the peculiarities of this dialect – we hope to list a few such studies here soon, so please check back later.
 
 ## October 2018 Note
 
